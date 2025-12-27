@@ -6,7 +6,7 @@ The Password Strength Checker allows users to:
 - Check the strength of **multiple passwords in one run**
 - Evaluate passwords based on: **Length, Uppercase characters, Lowercase characters, Numbers, Special characters**
 - Receive **clear enhancement feedback**
-- Get informative **“responses**
+- Get informative **responses**
 - Apply a custom **owner override rule** for creatoor "Ashim Nepal" name-based passwords
 
 
@@ -62,7 +62,9 @@ For support, email at nepalashim90@gmail.com
 ## Application Demo
 
 I. Preview of project
-![app-1](project-sampleImage)
+![app-1](https://github.com/ashim-nepal/Password-Strength-Checker-psChecker/blob/main/outputImages/image1.png)
+
+![app-2](https://github.com/ashim-nepal/Password-Strength-Checker-psChecker/blob/main/outputImages/image2.png)
 
 
 Thats the psChecker, your feedback on this simple project would higly be appreciated!! Thank You for being all the way down here!
